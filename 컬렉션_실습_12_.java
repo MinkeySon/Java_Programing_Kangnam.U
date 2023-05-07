@@ -1,5 +1,3 @@
-package 명품자바ch07;
-
 import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.util.Vector;
