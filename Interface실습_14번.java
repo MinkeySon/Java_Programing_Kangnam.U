@@ -1,5 +1,3 @@
-package W5;
-
 interface Shapess {
     final double PI = 3.14; // 상수
     void draw(); // 도형을 그리는 추상 메소드
@@ -50,7 +48,7 @@ class Rectrr implements Shapess{
         return a*b;
     }
 }
-public class Interface실습_14번 {
+public class Main {
 
 	public static void main(String[] args) {
 		Shapess[] list = new Shapess[3]; // Shape을 상속받은 클래스 객체의 레퍼런스 배열
