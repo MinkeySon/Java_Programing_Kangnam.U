@@ -1,11 +1,8 @@
-package W3;
-
 import java.util.Scanner;
 
-public class 가위바위보_실습 {
+public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		Scanner sc = new Scanner(System.in);
 		
