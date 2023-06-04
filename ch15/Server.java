@@ -1,5 +1,3 @@
-package 명품자바ch15;
-
 import java.awt.Color;
 import java.awt.Container;
 import java.awt.FlowLayout;
