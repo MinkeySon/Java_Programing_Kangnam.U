@@ -1,5 +1,3 @@
-package 명품자바ch15;
-
 import java.awt.*;
 import java.net.*;
 import java.awt.event.*;
